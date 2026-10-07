@@ -12,7 +12,6 @@ The interactive website includes research visuals and pages for NASA C-MAPSS, Sc
 
 - [Public validation portfolio](https://github.com/CoherenceEngine/Research/tree/main/validation), audit tools, result summaries and reproduction requirements.
 - [Public research repository](https://github.com/CoherenceEngine/Research), evaluation guidance and preserved negative results.
-- [Archived HTML atlas](Delta72_Complete_Research_Atlas.html), the previously committed standalone artifact. GitHub shows its source; use the live website above for the interactive experience. The archived artifact may differ from the current website.
 
 ## How to read the results
 
