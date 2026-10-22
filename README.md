@@ -10,6 +10,15 @@ Explore Allison Hensgen’s computational research, benchmark evidence and appli
 
 The interactive website includes research visuals and pages for NASA C-MAPSS, Scania APS, HBI control simulation, model-family gating, household power, ECG, credit-card fraud and mathematical extensions.
 
+## Investor materials
+
+- [The Coherence Engine overview, 15-page screen-optimized PDF](investor-materials/The_Coherence_Engine.pdf)
+- [Relational analytics and performance benchmarks, full-size PNG](investor-materials/Relational_Analytics_and_Performance_Benchmarks.png)
+
+The benchmark graphic is a presentation summary. Results apply to their named datasets, implementations and protocols; see the validation portfolio below for supporting evidence and limitations.
+
+![The Coherence Engine relational analytics and performance benchmarks](investor-materials/Relational_Analytics_and_Performance_Benchmarks.png)
+
 ## Explore supporting evidence
 
 - [Public validation portfolio](https://github.com/CoherenceEngine/Research/tree/main/validation), audit tools, result summaries and reproduction requirements.
